@@ -1,0 +1,113 @@
+div.background{background-color:silver;
+               backgroung-attachment:scroll;
+               border:2px solid black;
+}
+
+div.transbox{margin:30px;
+             background-color:black;
+             border:1px solid black;
+}
+
+
+div.transbox body{margin:5%;
+                  font-weight:bold;
+                  color#000000;
+}
+
+div.img{background-color:white;
+        border:2px solid black;
+        float:right;
+        height:200;
+        width:200;
+        margin:200px 100px 5px 5px;
+}
+
+div.img1{background-color:white;
+        border:2px solid black;
+        float:right;
+        height:200;
+        width:200;
+        margin:100px 100px 5px 5px;
+}
+
+
+div.img2{background-color:black;
+        border:2px solid black;
+        float:right;
+        margin:250px 100px 5px 5px;
+}
+
+div.img3{background-color:black;
+        border:2px solid black;
+        float:right;
+        
+        margin:100px 100px 5px 5px;
+       
+}
+
+div.img4{background-color:black;
+        border:2px solid black;
+        float:right;
+        margin:0px 100px 10px 5px;
+       
+}
+
+
+
+div.dd{float:left;
+       margin:3px 30px 0px 20px;
+       display:block;
+       position:absolute;
+}
+
+.ddbtn{margin:0px 0px 0px 10px;
+       padding:5px;
+       float:left;
+       min-width:100px;
+       color:white;
+       background-color:darkblue;
+}
+
+.ddbtn:hover{color:black;
+             background-color:yellow;
+}
+
+.ddbtn:visited{color:white;
+              background-color:black;
+}
+
+.ddbtn:active{color:white;
+              background-color:black;
+}
+
+a:link{font-size:30px;
+       color:yellow;
+}
+
+a:visited{color:white;}
+
+a:hover{font-size:40px;
+        color:#ff8928;
+}
+
+a:active{color:#e1b382;}
+
+
+
+body{background-color:black;}
+
+h1{color:white;
+   font-size:50px;
+   text-align:center;
+}
+h2,h3,h4,h5,h6,h7{font-size:25px;
+         color:white;
+}
+
+p{font-size:20px;
+  color:yellow;
+}
+
+div.123{font-size:100px;
+        color:yellow;
+}
